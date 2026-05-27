@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercender",
+        "uuid": 15829184,
+        "checksum": "n4sudd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
